@@ -1,1 +1,1 @@
-# Hindihandwritten-character-recognization
+# Devanagari-Hindihandwritten-character-recognization
